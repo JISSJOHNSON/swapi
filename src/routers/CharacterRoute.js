@@ -1,3 +1,6 @@
+/**
+*Character Route File
+*/
 const express = require('express');
 const defaults = require('../defaults');
 const { body, validationResult, check }  = require('express-validator/check');
